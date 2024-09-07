@@ -41,6 +41,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/norkingbr/norkingbr/output/snake.svg" alt="Snake animation" />
 
-###
