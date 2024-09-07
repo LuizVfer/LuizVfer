@@ -37,9 +37,6 @@
   <a href="https://www.instagram.com/luiz_vfer/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
   </a>
-  <a href="fernandovieirasantos10@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
