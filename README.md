@@ -51,6 +51,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuizVfer/LuizVfer/output/snake.svg" alt="Snake animation" />
-
-###
